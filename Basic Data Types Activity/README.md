@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this assignment, the goal was to create a story using console.log to add together different string variables and arrays. My story was basically about how a person who got lost due to his map being all funky. He ends up in a castle of the infamous Dr. Doom in which he locks the person inside the castle. However, Dr. Doom decideds to free this person if they give him his one wish, which is ice cream. The person obviously was carrying ice cream with him and is freed from the mayhem of Dr. Doom.
