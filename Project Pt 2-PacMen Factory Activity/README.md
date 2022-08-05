@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+This project proved to be the most difficult as it required a lot of reading and thinking in order to successfuly complete it. However, by using if statements and different variables, that were already established in the coding, I was able to make the pacmen keep bouncing within the boundaries of the website. All in all, I really enjoyed this assignment as it challenged my coding skills and really had me struggling for a long time to even figure out where to start. 
